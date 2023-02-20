@@ -93,9 +93,9 @@
   
 
 <br/>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ramakrishnaprasads" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ramakrishnaprasads" /> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  </p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <br/>  
 
