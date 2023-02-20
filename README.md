@@ -90,11 +90,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
- <p></p>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ShashankRajSara" /> 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true"  />
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true"  />
 </div> 
 
 <br/>  
