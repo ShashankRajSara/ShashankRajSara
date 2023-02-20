@@ -91,11 +91,11 @@
 </a>  
 </div>  
   
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ShashankRajSara" /> 
 
-<br/>  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ramakrishnaprasads" /> 
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true" align="right" /></div> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShashankRajSara&show_icons=true&count_private=true&hide_border=true"  />
+</div> 
 
 <br/>  
 
