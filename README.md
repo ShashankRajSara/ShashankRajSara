@@ -90,7 +90,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
- </br>
+ <p></p>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankRajSara&show_icons=true&locale=en&layout=compact" alt="ShashankRajSara" /> 
 
