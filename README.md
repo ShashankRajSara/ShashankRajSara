@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning SnowFlake and Kubernetes  
   
 
-- ❓ Ask me about anything related to SQL, Python and Hadoop related technologies  
+- ❓ Ask me about anything related to Data Engineering technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
