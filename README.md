@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shashank Raj, a full-time Data Engineer👨‍💻</div>  
+### <div align="center">I'm Shashank Raj, a Data Engineer👨‍💻</div>  
   
 
 - 🔭 I’m currently working on **Azure Data Engineering**
