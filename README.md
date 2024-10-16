@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shashank Raj, a full-time Data Engineer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on **Airflow**
+- 🔭 I’m currently working on **Azure Data Engineering**
   
 
 - 🌱 I’m currently learning SnowFlake and Kubernetes  
