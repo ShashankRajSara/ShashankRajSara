@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shashank Raj, a Data Engineer👨‍💻</div>  
   
 
-- 🔭 I'm a a**Data Engineer**
+- 🔭 I'm a **Data Engineer**
   
 
 - 🌱 I’m currently learning SnowFlake and Kubernetes  
